@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first git repository
-author-tanveer kaur
+author-tanveer kaur jatti
